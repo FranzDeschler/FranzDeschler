@@ -4,7 +4,7 @@
 - 🌍 I live in Munich
 - 🎓 I`m a computer science graduate with a passion for software development
 - 💻 I develop [{CodeStore}](https://codestore.cloud) as a learning-by-doing project in my free time
-- ✏️ I write a [blog](https://codestore.cloud/en/blog) about my learnings
+- ✏️ I write a [blog](https://codestore.cloud/blog) about my learnings
 
 ## My Tech Stack
 - Java / JavaFX / Spring Boot
@@ -28,6 +28,3 @@
 - serialization and deserialization of [JSON:API](https://jsonapi.org/) documents based on Jackson
 - tech stack: Java / Jackson
 - [GitHub](https://github.com/FranzDeschler/JsonApi)
-
-## Contact Me
-- [Twitter](https://twitter.com/FranzDeschler)
