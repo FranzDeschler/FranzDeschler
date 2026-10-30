@@ -3,7 +3,7 @@
 ## About Me
 - 🌍 I live in Munich
 - 🎓 I`m a computer science graduate with a passion for software development
-- 💻 I develop [{CodeStore}](https://github.com/CodeStore-cloud/desktop) as a learning-by-doing project in my free time
+- 💻 I develop [{CodeStore}](https://github.com/FranzDeschler/CodeStore) as a learning-by-doing project in my free time
 - ✏️ I write a [blog](https://codestore.cloud/blog) about my learnings
 
 ## My Tech Stack
